@@ -6,7 +6,7 @@
 <img width="420" height="270" src="res/yulan-cn.jpg"/>
 
 ### 置顶倒计时
-<img width="420" height="90" src="res/countdown.jpg"/>
+<img width="420" height="95" src="res/countdown.jpg"/>
 
 ### 功能
 1. 在**任何应用全屏状态顶端显示**.(支持鼠标穿透).
