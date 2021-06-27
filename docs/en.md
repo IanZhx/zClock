@@ -16,7 +16,7 @@
 ### Download
 * [【 zClock Lite 】](https://apps.apple.com/us/app/zclock-lite/id1489475245)
 * [【 zClock Full Edition 】](https://apps.apple.com/us/app/zclock/id1478540997)
-   * More feature:
+   * More features:
        * Custom font, size, color.
        * Show second, Support 12-Hour format.
        * Countdown ringtone, Custom coundown duration.
