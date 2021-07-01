@@ -30,6 +30,7 @@
 
 ### 反馈   
 * [ 【 反馈 】 ](https://support.qq.com/product/72603)  
+* [ 【 打赏 】 ](https://zclock.oss-cn-shenzhen.aliyuncs.com/reward.png) 
 
 ---
 *不用担心，没什么大不了的，时间会抚平一切。*
