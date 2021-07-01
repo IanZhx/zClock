@@ -22,7 +22,7 @@
        * Countdown ringtone, Custom coundown duration.
        * Lock and Click Through.
        * Disable topmost.
-* [【 Windows V0.3.2 】](https://zclock.oss-cn-shenzhen.aliyuncs.com/win/0.3.2/zClock-v0.3.2.zip) *md5: b15481ea367f7785f6bd71e21ad718ad*
+* [【 Windows V0.3.3 】](https://zclock.oss-cn-shenzhen.aliyuncs.com/win/0.3.3/zClock-v0.3.3.zip) *md5: cda8a7c20ca499c9fd924b64c91fa2da*
 
 ### Auto Launch
 * Open **System Preferences > Users & Groups > Login Items**, Add **zClock** into "Login Items"

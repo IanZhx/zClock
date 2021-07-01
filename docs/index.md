@@ -23,7 +23,7 @@
        * 显示秒，支持12小时制。
        * 倒计时结束声音提示，自定义倒计时长，结束继续计时。
        * 锁定位置，鼠标穿透，取消置顶选项。
-* [【 Windows v0.3.2 】](https://zclock.oss-cn-shenzhen.aliyuncs.com/win/0.3.2/zClock-v0.3.2.zip) *md5:  b15481ea367f7785f6bd71e21ad718ad*
+* [【 Windows v0.3.3 】](https://zclock.oss-cn-shenzhen.aliyuncs.com/win/0.3.3/zClock-v0.3.3.zip) *md5:  cda8a7c20ca499c9fd924b64c91fa2da*
 
 ### 开机自启动
 * **系统偏好设置>>用户与群组>>登录项** 在其中添加**zClock**即可
