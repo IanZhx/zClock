@@ -30,7 +30,6 @@
 ### Feedback   
 
 * [E-mail](mailto:hooper.zhu@gmail.com)
-* [Buy me a coffee](https://zclock.oss-cn-shenzhen.aliyuncs.com/reward.png)
 
 ---
 *Don't Worry, it's not a big deal, time will dilute all.*

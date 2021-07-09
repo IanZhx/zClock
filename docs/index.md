@@ -29,8 +29,8 @@
 * **系统偏好设置>>用户与群组>>登录项** 在其中添加**zClock**即可
 
 ### 反馈   
-* [ 【 反馈 】 ](https://support.qq.com/product/72603)  
-* [ 【 打赏 】 ](https://zclock.oss-cn-shenzhen.aliyuncs.com/reward.png) 
+* [ 【 留言反馈 】 ](https://support.qq.com/product/72603)  
+* [ 【 加入微信群 】 ](https://zclock.oss-cn-shenzhen.aliyuncs.com/wxq.png) 
 
 ---
 *不用担心，没什么大不了的，时间会抚平一切。*
