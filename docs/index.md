@@ -30,7 +30,6 @@
 
 ### 反馈   
 * [ 【 留言反馈 】 ](https://support.qq.com/product/72603)  
-* [ 【 加入微信群 】 ](https://zclock.oss-cn-shenzhen.aliyuncs.com/wxq.png) 
 
 ---
 *不用担心，没什么大不了的，时间会抚平一切。*
